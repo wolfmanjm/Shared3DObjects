@@ -14,6 +14,6 @@ Index
 drives
 * w-wheel.scad - Steve Grabers W Wheel, for using in openscad designs
   to make sure it fits
-* four_wheels.scad - a modified version of Johanns four wheel carriage
+* four_wheels.scad - a modified version of [jcrocholl](https://github.com/jcrocholl/kossel) four wheel carriage
   design to fit Makerslide using W Wheels
 
